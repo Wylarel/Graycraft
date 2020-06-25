@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-GLWTPL-green.svg)](https://github.com/me-shaon/GLWTPL)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
 [![Versions](https://img.shields.io/badge/Tested%20Versions-1.6.1%20--%201.16.x-orange)](#)
+  
 **Life is not black and white; there is some gray nuance to it**
 ## Procedure
 * Install [python](https://www.python.org/) to your computer
